@@ -1,8 +1,30 @@
-# React + Vite
+## Coffee Emporium ☕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Coffee Emporium is a sleek and modern website designed for coffee enthusiasts to explore. It features full CRUD (Create, Read, Update, Delete) operations. Built with React and styled using Tailwind CSS, the site provides an intuitive and responsive user experience
 
-Currently, two official plugins are available:
+## ✨ Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Dynamic Product Management: Add, update, view, and delete coffee products with full CRUD functionality.
+
+- Responsive Design: Fully responsive layout for mobile, tablet, and desktop.
+
+## 🛠️ Technologies Used
+
+- 🎨 Frontend: React, Tailwind CSS, Daisy UI
+- 🔄 Backend: MongoDB
+- 🛠️ Build Tool: Vite
+- 🗂️ State Management: React Hooks
+- 📄 Data: Server API
+- 🌐 Routing: React Router
+- 🎨 Icons & Graphics: React icons
+- 🔧 Version Control: Git, GitHub
+
+## Screenshots
+
+#### Home page
+
+![App Screenshot](https://i.postimg.cc/Dw9gw5sh/screenshot-3.png)
+
+#### Details page
+
+![App Screenshot](https://i.postimg.cc/Wbf8Qs1h/screenshot-4.png)
